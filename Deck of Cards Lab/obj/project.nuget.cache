@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jmWUU0/KVQdiZo3s8DYBOgpCiDRyYQ8s6nI4bDA9ofm4TOlr15WQ92zEVFjiqWI8uvyL4rVQPLQ2gmdEMpaxtA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cpaul\\source\\repos\\Deck of Cards Lab\\Deck of Cards Lab\\Deck of Cards Lab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cpaul\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

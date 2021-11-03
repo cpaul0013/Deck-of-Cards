@@ -1,0 +1,13 @@
+﻿@model CardsModel
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@foreach(Card c in @Model.cards)
+            {
+                    <p>  @c.code @c.value @c.suit <img src="@c.image" /></p>
+                
+
+            }
